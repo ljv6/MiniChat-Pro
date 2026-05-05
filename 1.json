@@ -1,1 +1,15 @@
-
+{
+  "tool_name": "ملفت بلس",
+  "folder_name": "MulfetPlus",
+  "version": "ID: 1 - v1.0",
+  "social_links": [
+    {
+      "title": "Insta",
+      "url": "https://www.instagram.com/mulfet.store?igsh=YjBmYWZ3Y3J6ZWJ3"
+    },
+    {
+      "title": "Tele",
+      "url": "https://t.me/mulfet1"
+    }
+  ]
+}
